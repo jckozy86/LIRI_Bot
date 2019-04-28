@@ -63,6 +63,9 @@ You can also add all the above commands in a file called *random.txt* that will 
 
 The results will show up on the console view of the terminal, but will also be added on the *log.txt* file on the project root directory
 
+## Instructional Video
+
+An instructional video can be found at: [demo video](https://drive.google.com/open?id=1SFuaVYGJLrpn2YztXAp54WYCWqRTOzMa)
 
 ## Folder and file Structure
 
